@@ -6,6 +6,9 @@
 2. Mostrar las tiendas como marcadores en el mapa - Historia incompleta: Intenté agregar los marcadores a través de datos obtenidos del store_directory.json, sin embargo al momento de cargar la página ésta desaparece (sí es posible añadir marcadores que no provengan del .json, puse uno de forma manual como ejemplo). A pesar de intentar corregir el problema de varias maneras, no logré que se mostraran los marcadores.
 3. Añadir una tienda al hacer clic sobre ella - Historia incompleta: No es posible completar esta historia sin tener lista la historia anterior.
 
+### Datos extras
+1. Utilicé Reactstrap para generar algunos elementos como botones y listas y que los mismos fueran responsivos en la página principal.
+
 ======================================================================
  This is a take-home coding challenge used to help evaluate candidates
 interested in joining the team at Generation.
